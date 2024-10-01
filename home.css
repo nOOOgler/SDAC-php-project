@@ -1,0 +1,57 @@
+
+
+.container-fluid-1{
+    background-image: url("images/tourlogo.jpg");
+   
+    height: 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    -webkit-filter: contrast(1.25);
+    filter: contrast(1.25);
+}
+
+
+
+.container-fluid-2{
+    background-image: url("https://images.unsplash.com/photo-1675104430343-9f6cf24ff9b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80");
+   
+    height: 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    -webkit-filter: contrast(1.25);
+    filter: contrast(1.25);
+}
+
+a:hover{
+    color: black  !important;   
+    text-decoration: none  !important;      
+}
+a{
+    text-decoration: none  !important; 
+    
+}
+
+
+.carousel slide w-75 h-25{
+    height: 50% !important;
+    width: 50% !important;
+}
+
+/* .container-fluid-3{
+    background-image: url("https://images.unsplash.com/photo-1545579133-99bb5ab189bd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80");
+   
+    height: 400px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    /* -webkit-filter: contrast(1.25);
+    filter: contrast(1.25); }*/
+
+    .container-1{
+      width: 100%;
+    }

@@ -1,0 +1,30 @@
+.container-fluid-1{
+    background-image: url("https://images.unsplash.com/photo-1529034502960-57f42a966080?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80");
+   
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+  opacity: 0.8;
+}
+
+a:hover{
+    color: coral !important;
+    
+}
+a{
+    text-decoration: none  !important; 
+    
+}
+
+input {
+    border-radius: 5px;
+    height: 40px;
+    border: 1px solid black;
+}
+
+textarea{
+    border-radius: 5px;
+    border: 1px solid black;
+}
